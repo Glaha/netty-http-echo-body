@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d8ecf22-443d-49de-9d41-9aec8f10eeab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="netty-demos" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.3/libexec" />
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="client" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wh3cGKeyNkwHh4ZFXWn3STTDhd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../netty-websocket/src/main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.glaha.client" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Http2Server">
+    <configuration name="Http2Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Http2Client" />
+      <module name="netty-http2-client" />
+      <option name="VM_PARAMETERS" value="-Dssl=true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Http2Server" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Http2Server" />
+      <module name="netty-http2-server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpClient" />
+      <module name="netty-aggregator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpClient" />
+      <module name="netty-http-reponse-bigbody" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpServer" />
+      <module name="netty-http-reponse-bigbody" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="netty-helloworld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="netty-helloworld" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Http2Server" />
+      <item itemvalue="Application.HttpServer" />
+      <item itemvalue="Application.HttpClient" />
+      <item itemvalue="Application.HttpClient (1)" />
+      <item itemvalue="Application.Http2Client" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Http2Client" />
+        <item itemvalue="Application.HttpClient" />
+        <item itemvalue="Application.HttpServer" />
+        <item itemvalue="Application.HttpClient (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d8ecf22-443d-49de-9d41-9aec8f10eeab" name="Default Changelist" comment="" />
+      <created>1579588076328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579588076328</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="221" key="#Project_Structure" timestamp="1582798667420">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="496" y="221" key="#Project_Structure/0.23.1792.1028@0.23.1792.1028" timestamp="1582798667420" />
+    <state x="496" y="221" key="#Project_Structure/0.23.1792.1030@0.23.1792.1030" timestamp="1580784152928" />
+    <state x="919" y="233" key="#SocketClient" timestamp="1580443719873">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="919" y="233" key="#SocketClient/0.23.1792.1026@0.23.1792.1026" timestamp="1580443719873" />
+    <state x="239" y="315" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582800866221">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="2216" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1579591365532" />
+    <state x="2216" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1024/1792.23.1920.1057@1792.23.1920.1057" timestamp="1579685416872" />
+    <state x="239" y="315" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1582800866221" />
+    <state x="615" y="349" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580809476694">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="615" y="349" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1031@0.23.1792.1031" timestamp="1580809476694" />
+    <state x="562" y="365" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1582208926562">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="562" y="365" key="#com.intellij.ide.macro.MacrosDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1582208926562" />
+    <state x="773" y="271" key="#com.intellij.ide.util.MemberChooser" timestamp="1582771044871">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="2620" y="279" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1024/1792.23.1920.1057@1792.23.1920.1057" timestamp="1579749837164" />
+    <state x="773" y="271" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1024@0.23.1792.1024" timestamp="1579624374973" />
+    <state x="773" y="271" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1026@0.23.1792.1026" timestamp="1580466527372" />
+    <state x="773" y="271" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1028@0.23.1792.1028" timestamp="1582771044871" />
+    <state x="773" y="272" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1030@0.23.1792.1030" timestamp="1580789714630" />
+    <state x="773" y="272" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1031@0.23.1792.1031" timestamp="1580810109529" />
+    <state x="634" y="338" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579623657261">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state x="634" y="338" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1792.1024@0.23.1792.1024" timestamp="1579623657261" />
+    <state x="634" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582799635067">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="634" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1582799635067" />
+    <state x="675" y="219" key="#xdebugger.evaluate" timestamp="1582796901671">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="2515" y="225" key="#xdebugger.evaluate/0.23.1792.1024/1792.23.1920.1057@1792.23.1920.1057" timestamp="1579684959553" />
+    <state x="675" y="219" key="#xdebugger.evaluate/0.23.1792.1028@0.23.1792.1028" timestamp="1582796901671" />
+    <state x="675" y="220" key="#xdebugger.evaluate/0.23.1792.1030@0.23.1792.1030" timestamp="1580799148666" />
+    <state x="675" y="220" key="#xdebugger.evaluate/0.23.1792.1031@0.23.1792.1031" timestamp="1580811095268" />
+    <state width="534" height="467" key="DebuggerActiveHint" timestamp="1582797938999">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="471" height="466" key="DebuggerActiveHint/0.23.1792.1026@0.23.1792.1026" timestamp="1580466708505" />
+    <state width="534" height="467" key="DebuggerActiveHint/0.23.1792.1028@0.23.1792.1028" timestamp="1582797938999" />
+    <state x="550" y="396" key="EnvironmentVariablesDialog" timestamp="1582208752825">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="550" y="396" key="EnvironmentVariablesDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1582208752825" />
+    <state width="1750" height="264" key="GridCell.Tab.0.bottom" timestamp="1582803720094">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1579591877346" />
+    <state width="1878" height="265" key="GridCell.Tab.0.bottom/0.23.1792.1024/1792.23.1920.1057@1792.23.1920.1057" timestamp="1579761628423" />
+    <state width="1750" height="265" key="GridCell.Tab.0.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1580440350924" />
+    <state width="1750" height="265" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1580467224258" />
+    <state width="1750" height="264" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1582803720094" />
+    <state width="1750" height="265" key="GridCell.Tab.0.bottom/0.23.1792.1030@0.23.1792.1030" timestamp="1580802559623" />
+    <state width="1750" height="346" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1580811655106" />
+    <state width="1750" height="264" key="GridCell.Tab.0.center" timestamp="1582803720093">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1579591877345" />
+    <state width="1878" height="265" key="GridCell.Tab.0.center/0.23.1792.1024/1792.23.1920.1057@1792.23.1920.1057" timestamp="1579761628422" />
+    <state width="1750" height="265" key="GridCell.Tab.0.center/0.23.1792.1024@0.23.1792.1024" timestamp="1580440350924" />
+    <state width="1750" height="265" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1580467224257" />
+    <state width="1750" height="264" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1582803720093" />
+    <state width="1750" height="265" key="GridCell.Tab.0.center/0.23.1792.1030@0.23.1792.1030" timestamp="1580802559623" />
+    <state width="1750" height="346" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1580811655105" />
+    <state width="1750" height="264" key="GridCell.Tab.0.left" timestamp="1582803720093">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1579591877344" />
+    <state width="1878" height="265" key="GridCell.Tab.0.left/0.23.1792.1024/1792.23.1920.1057@1792.23.1920.1057" timestamp="1579761628422" />
+    <state width="1750" height="265" key="GridCell.Tab.0.left/0.23.1792.1024@0.23.1792.1024" timestamp="1580440350923" />
+    <state width="1750" height="265" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1580467224256" />
+    <state width="1750" height="264" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1582803720093" />
+    <state width="1750" height="265" key="GridCell.Tab.0.left/0.23.1792.1030@0.23.1792.1030" timestamp="1580802559623" />
+    <state width="1750" height="346" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1580811655104" />
+    <state width="1750" height="264" key="GridCell.Tab.0.right" timestamp="1582803720094">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1579591877345" />
+    <state width="1878" height="265" key="GridCell.Tab.0.right/0.23.1792.1024/1792.23.1920.1057@1792.23.1920.1057" timestamp="1579761628422" />
+    <state width="1750" height="265" key="GridCell.Tab.0.right/0.23.1792.1024@0.23.1792.1024" timestamp="1580440350924" />
+    <state width="1750" height="265" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1580467224258" />
+    <state width="1750" height="264" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1582803720094" />
+    <state width="1750" height="265" key="GridCell.Tab.0.right/0.23.1792.1030@0.23.1792.1030" timestamp="1580802559623" />
+    <state width="1750" height="346" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1580811655105" />
+    <state width="1750" height="346" key="GridCell.Tab.1.bottom" timestamp="1582799685126">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1878" height="327" key="GridCell.Tab.1.bottom/0.23.1792.1024/1792.23.1920.1057@1792.23.1920.1057" timestamp="1579685428288" />
+    <state width="1750" height="327" key="GridCell.Tab.1.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1579853696013" />
+    <state width="1750" height="327" key="GridCell.Tab.1.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1580466745300" />
+    <state width="1750" height="346" key="GridCell.Tab.1.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1582799685126" />
+    <state width="1750" height="345" key="GridCell.Tab.1.bottom/0.23.1792.1030@0.23.1792.1030" timestamp="1580802559777" />
+    <state width="1750" height="346" key="GridCell.Tab.1.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1580811654612" />
+    <state width="1750" height="346" key="GridCell.Tab.1.center" timestamp="1582799685125">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1878" height="327" key="GridCell.Tab.1.center/0.23.1792.1024/1792.23.1920.1057@1792.23.1920.1057" timestamp="1579685428288" />
+    <state width="1750" height="327" key="GridCell.Tab.1.center/0.23.1792.1024@0.23.1792.1024" timestamp="1579853696012" />
+    <state width="1750" height="327" key="GridCell.Tab.1.center/0.23.1792.1026@0.23.1792.1026" timestamp="1580466745300" />
+    <state width="1750" height="346" key="GridCell.Tab.1.center/0.23.1792.1028@0.23.1792.1028" timestamp="1582799685125" />
+    <state width="1750" height="345" key="GridCell.Tab.1.center/0.23.1792.1030@0.23.1792.1030" timestamp="1580802559777" />
+    <state width="1750" height="346" key="GridCell.Tab.1.center/0.23.1792.1031@0.23.1792.1031" timestamp="1580811654611" />
+    <state width="1750" height="346" key="GridCell.Tab.1.left" timestamp="1582799685125">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1878" height="327" key="GridCell.Tab.1.left/0.23.1792.1024/1792.23.1920.1057@1792.23.1920.1057" timestamp="1579685428287" />
+    <state width="1750" height="327" key="GridCell.Tab.1.left/0.23.1792.1024@0.23.1792.1024" timestamp="1579853696012" />
+    <state width="1750" height="327" key="GridCell.Tab.1.left/0.23.1792.1026@0.23.1792.1026" timestamp="1580466745299" />
+    <state width="1750" height="346" key="GridCell.Tab.1.left/0.23.1792.1028@0.23.1792.1028" timestamp="1582799685125" />
+    <state width="1750" height="345" key="GridCell.Tab.1.left/0.23.1792.1030@0.23.1792.1030" timestamp="1580802559776" />
+    <state width="1750" height="346" key="GridCell.Tab.1.left/0.23.1792.1031@0.23.1792.1031" timestamp="1580811654611" />
+    <state width="1750" height="346" key="GridCell.Tab.1.right" timestamp="1582799685125">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1878" height="327" key="GridCell.Tab.1.right/0.23.1792.1024/1792.23.1920.1057@1792.23.1920.1057" timestamp="1579685428288" />
+    <state width="1750" height="327" key="GridCell.Tab.1.right/0.23.1792.1024@0.23.1792.1024" timestamp="1579853696013" />
+    <state width="1750" height="327" key="GridCell.Tab.1.right/0.23.1792.1026@0.23.1792.1026" timestamp="1580466745300" />
+    <state width="1750" height="346" key="GridCell.Tab.1.right/0.23.1792.1028@0.23.1792.1028" timestamp="1582799685125" />
+    <state width="1750" height="345" key="GridCell.Tab.1.right/0.23.1792.1030@0.23.1792.1030" timestamp="1580802559777" />
+    <state width="1750" height="346" key="GridCell.Tab.1.right/0.23.1792.1031@0.23.1792.1031" timestamp="1580811654612" />
+    <state x="465" y="215" key="Maven.ArtifactSearchDialog" timestamp="1580461574527">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="2290" y="202" key="Maven.ArtifactSearchDialog/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1579596534114" />
+    <state x="465" y="215" key="Maven.ArtifactSearchDialog/0.23.1792.1024@0.23.1792.1024" timestamp="1579621894052" />
+    <state x="465" y="215" key="Maven.ArtifactSearchDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1580461574527" />
+    <state x="542" y="257" key="NewModule_or_Project.wizard" timestamp="1582786541282">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="2373" y="265" key="NewModule_or_Project.wizard/0.23.1792.1024/1792.23.1920.1057@1792.23.1920.1057" timestamp="1579759022078" />
+    <state x="542" y="257" key="NewModule_or_Project.wizard/0.23.1792.1024@0.23.1792.1024" timestamp="1579793788644" />
+    <state x="542" y="257" key="NewModule_or_Project.wizard/0.23.1792.1026@0.23.1792.1026" timestamp="1580463915159" />
+    <state x="542" y="257" key="NewModule_or_Project.wizard/0.23.1792.1028@0.23.1792.1028" timestamp="1582786541282" />
+    <state x="542" y="258" key="NewModule_or_Project.wizard/0.23.1792.1030@0.23.1792.1030" timestamp="1580786439544" />
+    <state x="542" y="258" key="NewModule_or_Project.wizard/0.23.1792.1031@0.23.1792.1031" timestamp="1580807025753" />
+    <state x="418" y="138" key="SettingsEditor" timestamp="1582786618133">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="2240" y="121" key="SettingsEditor/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1579591064130" />
+    <state x="2240" y="142" key="SettingsEditor/0.23.1792.1024/1792.23.1920.1057@1792.23.1920.1057" timestamp="1579759023794" />
+    <state x="418" y="138" key="SettingsEditor/0.23.1792.1024@0.23.1792.1024" timestamp="1579793791386" />
+    <state x="418" y="138" key="SettingsEditor/0.23.1792.1026@0.23.1792.1026" timestamp="1580463916121" />
+    <state x="418" y="138" key="SettingsEditor/0.23.1792.1028@0.23.1792.1028" timestamp="1582786618133" />
+    <state x="418" y="138" key="SettingsEditor/0.23.1792.1030@0.23.1792.1030" timestamp="1580786443025" />
+    <state x="418" y="138" key="SettingsEditor/0.23.1792.1031@0.23.1792.1031" timestamp="1580807027877" />
+    <state x="2240" y="121" key="SettingsEditor/0.23.1792.1097/1792.0.1920.1080@1792.0.1920.1080" timestamp="1579596415659" />
+    <state x="679" y="322" key="chooseDestDirectoryDialog" timestamp="1582208211289">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="679" y="322" key="chooseDestDirectoryDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1582208211289" />
+    <state x="609" y="377" key="com.intellij.ide.util.TipDialog" timestamp="1580462780864">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="2445" y="372" key="com.intellij.ide.util.TipDialog/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1579590904396" />
+    <state x="609" y="376" key="com.intellij.ide.util.TipDialog/0.23.1792.1024@0.23.1792.1024" timestamp="1579598825676" />
+    <state x="609" y="377" key="com.intellij.ide.util.TipDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1580462780864" />
+    <state x="200" y="164" width="1592" height="784" key="dock-window-1" timestamp="1579854388737">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state x="200" y="164" width="1592" height="784" key="dock-window-1/0.23.1792.1024@0.23.1792.1024" timestamp="1579854388737" />
+    <state x="724" y="316" key="extract.method.dialog" timestamp="1580789233225">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="724" y="316" key="extract.method.dialog/0.23.1792.1030@0.23.1792.1030" timestamp="1580789233225" />
+    <state x="554" y="312" width="683" height="486" key="find.popup" timestamp="1582794936673">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="554" y="312" width="683" height="486" key="find.popup/0.23.1792.1028@0.23.1792.1028" timestamp="1582794936673" />
+    <state x="554" y="313" width="683" height="486" key="find.popup/0.23.1792.1030@0.23.1792.1030" timestamp="1580784217618" />
+    <state x="422" y="254" key="new project wizard" timestamp="1580460682414">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="307" y="254" key="new project wizard/0.23.1792.1024@0.23.1792.1024" timestamp="1579621507868" />
+    <state x="422" y="254" key="new project wizard/0.23.1792.1026@0.23.1792.1026" timestamp="1580460682414" />
+    <state x="561" y="257" key="run.anything.popup" timestamp="1579622131782">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state x="561" y="257" key="run.anything.popup/0.23.1792.1024@0.23.1792.1024" timestamp="1579622131782" />
+    <state x="583" y="252" width="671" height="646" key="search.everywhere.popup" timestamp="1582795212021">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="2417" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1579596504097" />
+    <state x="2417" y="259" width="718" height="662" key="search.everywhere.popup/0.23.1792.1024/1792.23.1920.1057@1792.23.1920.1057" timestamp="1579684935103" />
+    <state x="583" y="252" width="670" height="641" key="search.everywhere.popup/0.23.1792.1024@0.23.1792.1024" timestamp="1579600422333" />
+    <state x="583" y="252" width="671" height="643" key="search.everywhere.popup/0.23.1792.1026@0.23.1792.1026" timestamp="1580461973585" />
+    <state x="583" y="252" width="671" height="646" key="search.everywhere.popup/0.23.1792.1028@0.23.1792.1028" timestamp="1582795212021" />
+    <state x="583" y="253" width="671" height="647" key="search.everywhere.popup/0.23.1792.1031@0.23.1792.1031" timestamp="1580806126604" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/HelloworldHttpServerHandler.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../netty-websocket/src/main/java/HelloworldHttpServer.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../rpc-server/src/main/java/com/glaha/server/RpcServer.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../rpc-server/src/main/java/com/glaha/server/RpcServer.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../rpc-server/src/main/java/com/glaha/server/RpcServer.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../netty-chunk/src/main/java/HttpServerHandler.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../netty-chunk/src/main/java/HttpClientHandler.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../netty-chunk/src/main/java/HttpClientHandler.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.36.Final/netty-all-4.1.36.Final-sources.jar!/io/netty/handler/stream/ChunkedWriteHandler.java</url>
+          <line>235</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../netty-http2-client/src/main/java/Http2ClientInitializer.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../netty-http2-client/src/main/java/Http2Client.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.36.Final/netty-all-4.1.36.Final-sources.jar!/io/netty/handler/ssl/ApplicationProtocolNegotiationHandler.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.36.Final/netty-all-4.1.36.Final-sources.jar!/io/netty/handler/codec/http2/CleartextHttp2ServerUpgradeHandler.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.36.Final/netty-all-4.1.36.Final-sources.jar!/io/netty/handler/codec/http2/CleartextHttp2ServerUpgradeHandler.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../netty-first-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../netty-unpacking/pom.xml" />
+        <option value="$PROJECT_DIR$/../netty-packing/pom.xml" />
+        <option value="$PROJECT_DIR$/../netty-line-separator/pom.xml" />
+        <option value="$PROJECT_DIR$/../netty-delimiterBasedDecoder/pom.xml" />
+        <option value="$PROJECT_DIR$/../netty-fixedLenFrameDecoder/pom.xml" />
+        <option value="$PROJECT_DIR$/../netty-lengthFieldBasedFrameDecoder/pom.xml" />
+        <option value="$PROJECT_DIR$/../netty-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/../netty-webchat/pom.xml" />
+        <option value="$PROJECT_DIR$/../netty-idle/pom.xml" />
+        <option value="$PROJECT_DIR$/../rpc-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../rpc-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../rpc-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../netty-chunk/pom.xml" />
+        <option value="$PROJECT_DIR$/../netty-aggregator/pom.xml" />
+        <option value="$PROJECT_DIR$/../netty-http2-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../netty-http2-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../netty-http-reponse-bigbody/pom.xml" />
+        <option value="$PROJECT_DIR$/../netty-http2-tls-cert-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../netty-http2-tls-cert-server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" project-jdk-name="13" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
