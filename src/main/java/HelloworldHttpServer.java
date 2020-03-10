@@ -3,6 +3,7 @@ import io.netty.channel.ChannelFuture;
 import io.netty.channel.EventLoopGroup;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
+import io.netty.util.internal.StringUtil;
 
 public class HelloworldHttpServer {
     public static void main(String[] args) throws InterruptedException {
@@ -16,7 +17,9 @@ public class HelloworldHttpServer {
 
         ChannelFuture ch = null;
         try {
-            ch = bootstrap.bind(30000).sync();
+            String sport = System.getenv("GLAHA_HTTP_ECHO_PORT");
+            int port = StringUtil.isNullOrEmpty(sport)?30000:Integer.valueOf(sport);
+            ch = bootstrap.bind(port).sync();
             ch.channel().closeFuture().sync();
         } finally {
             parentGroup.shutdownGracefully();
